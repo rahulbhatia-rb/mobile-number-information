@@ -5,9 +5,6 @@ Demo project to find my IP Address in Android using REST (Retrofit Library)
 https://market.mashape.com/ajith/indian-mobile-info
 
 ## activity_main.xml 
-
-[Reference activity_main.xml](https://github.com/iamvickyav/MobileNo_Info/blob/master/app/src/main/res/layout/activity_main.xml)
-
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
