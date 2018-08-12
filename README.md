@@ -134,10 +134,6 @@ implementation 'com.squareup.retrofit2:converter-gson:2.4.0'
 ```
 
  
-## MainActivity.java
- 
-[Reference MainActivity java](https://github.com/iamvickyav/MobileNo_Info/blob/master/app/src/main/java/com/iamvickyav/jarvis/mobileno_data/MainActivity.java)
- 
 ### Initialise Retrofit
  
  ```java
